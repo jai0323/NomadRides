@@ -10,7 +10,7 @@ function handleDisconnect() {
         // database: process.env.DB_NAME,
         // port: process.env.DB_PORT,
 
-        host: 'localhost',
+        host: 'localhost',          
         user: 'root',
         password: 'root',
         database: 'nomadrides'

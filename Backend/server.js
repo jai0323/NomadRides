@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
 // Debug middleware
 
-
+   
 // Routes
 app.use('/', require('./routes/root'));
 app.use('/customerSignup', require('./routes/signup/customerSignup'));

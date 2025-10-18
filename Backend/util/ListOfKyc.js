@@ -16,7 +16,7 @@ const ListOfKycCustomer = async () => {
         console.error("ListOfKycCustomer Error:", error);
         throw error; // Propagate the error to the calling function
     }
-};
+};   
 
 const ListOfKycVendor = async () => {
     try {
