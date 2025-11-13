@@ -13,7 +13,7 @@ function CustomerSignup (customer, res)  {
                 console.log("signup.js line:16");
                 console.log(err);
                 return res.status(500).json({ message: "Somethig went wrong" });
-            }
+            }    
 
             const user ={
                 name:customer.name,

@@ -14,7 +14,7 @@ function VendorSignup (vendor, res)  {
                 console.log(err);
                 return res.status(500).json({ message: "Somethig went wrong" });
             }
-
+    
             const user ={
                 name:vendor.name,
                 email:vendor.email,
