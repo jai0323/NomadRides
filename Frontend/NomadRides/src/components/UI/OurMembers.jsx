@@ -17,15 +17,6 @@ const OUR__MEMBERS = [
     imgUrl: ava01,
   },
 
-  {
-    name: "Sakshi Taralkar",
-    experience: "5 years of experience",
-    fbUrl: "#",
-    instUrl: "#",
-    twitUrl: "#",
-    linkedinUrl: "#",
-    imgUrl: ava02,
-  },
 
   {
     name: "Prathamesh Manjare",
@@ -38,13 +29,13 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Abhiraj Sinha",
+    name: "Jyotsana",
     experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
     linkedinUrl: "#",
-    imgUrl: ava01,
+    imgUrl: ava02,
   },
 ];
 

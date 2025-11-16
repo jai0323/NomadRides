@@ -33,7 +33,7 @@ const blogData = [
   {
     id: 3,
     title: "The best way to give trip",
-    author: "Abhiraj",
+    author: "Jyotsana",
     date: "12 Dec, 2020",
     time: "9pm",
     imgUrl: img03,
